@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="645" viewBox="0 0 1440 645"><style>text{font-family:Arial,DejaVu Sans,sans-serif;fill:#141518}.top{font-size:39px;font-weight:800}.sub{font-size:21px;fill:#737373}.n{font-size:19px;font-weight:700;fill:#795b27}.big{font-size:26px;font-weight:800}.body{font-size:21px;fill:#464646}.small{font-size:18px;fill:#696969}.dark{fill:#141518}.gold{fill:#a88542}.w{fill:#fff}.lead{font-size:23px;font-weight:700}</style><rect width="1440" height="645" fill="#f8f7f5"/>
+<text x="65" y="73" class="top">UM QR OPCIONAL, SEM INTERROMPER O RITUAL.</text>
+<text x="65" y="111" class="sub">Aplicação ilustrativa: não representa um QR funcional nem um processo já ensaiado.</text>
+<rect x="75" y="154" width="412" height="396" rx="18" fill="#fff" stroke="#d7d7d7" stroke-width="2"/>
+<text x="110" y="201" class="n">FOTO DO TORCEDOR</text>
+<rect x="174" y="233" width="188" height="253" rx="8" fill="#fafafa" stroke="#a5a5a5" stroke-width="3"/>
+<rect x="189" y="248" width="158" height="182" fill="#dddddd"/><text x="268" y="343" text-anchor="middle" style="fill:#888;font-size:19px">RETRATO</text>
+<text x="268" y="458" text-anchor="middle" style="fill:#444;font-size:17px;font-weight:700">FRENTE</text>
+<path d="M496 345 H565" stroke="#a88542" stroke-width="4"/><path d="M565 345 l-13 -10 v20z" fill="#a88542"/>
+<rect x="580" y="154" width="350" height="396" rx="18" fill="#f6f0e4" stroke="#bea268" stroke-width="2"/>
+<text x="612" y="201" class="n">VERSO DA LEMBRANÇA</text>
+<rect x="692" y="233" width="142" height="207" rx="5" fill="white" stroke="#bcbcbc" stroke-width="3"/>
+<rect x="716" y="268" width="94" height="94" fill="#fafafa" stroke="#222" stroke-width="3" stroke-dasharray="6 5"/>
+<text x="763" y="319" text-anchor="middle" style="fill:#555;font-size:15px;font-weight:700">QR</text>
+<text x="763" y="340" text-anchor="middle" style="fill:#555;font-size:12px">ILUSTRATIVO</text>
+<text x="754" y="459" text-anchor="middle" style="fill:#444;font-size:16px;font-weight:700">TESTAR APLICAÇÃO</text>
+<path d="M939 345 H1006" stroke="#a88542" stroke-width="4"/><path d="M1006 345 l-13 -10 v20z" fill="#a88542"/>
+<rect x="1020" y="154" width="350" height="396" rx="18" fill="#fff" stroke="#d7d7d7" stroke-width="2"/>
+<text x="1050" y="201" class="n">DEPOIS DO JOGO</text>
+<text x="1050" y="274" class="lead">Acesso voluntário</text>
+<text x="1050" y="315" class="body">Relato do torcedor</text>
+<text x="1050" y="351" class="body">Contato para retorno</text>
+<text x="1050" y="387" class="body">Foto adicional opcional</text>
+<text x="1050" y="445" class="small">Sem cadastro obrigatório</text>
+<text x="65" y="597" style="font-size:20px;font-weight:700">Validação crítica: adesivo, leitura do código, tempo de entrega e autorização para uso posterior da imagem.</text>
+</svg>

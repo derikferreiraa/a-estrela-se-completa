@@ -1,0 +1,2 @@
+ensaio_id,data,fotografo,perfil_grupo,modelo_camera,lote_filme,temperatura_c,condicao_luz,distancia_rota_m,ciclo_total_seg,ejeção_1_t_seg,ejeção_2_t_seg,entrega_t_seg,imagem_1_reconhecivel_t_seg,imagem_2_reconhecivel_t_seg,momento_escolha_t_seg,chegada_estrela_t_seg,inicio_colagem_t_seg,fim_colagem_t_seg,fila_ou_bloqueio,incidente_ou_perda,observacoes
+,,,,,,,,,,,,,,,,,,,,,

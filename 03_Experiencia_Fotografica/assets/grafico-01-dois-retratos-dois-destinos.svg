@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="645" viewBox="0 0 1440 645"><style>text{font-family:Arial,DejaVu Sans,sans-serif;fill:#141518}.top{font-size:39px;font-weight:800}.sub{font-size:21px;fill:#737373}.n{font-size:19px;font-weight:700;fill:#795b27}.big{font-size:26px;font-weight:800}.body{font-size:21px;fill:#464646}.small{font-size:18px;fill:#696969}.dark{fill:#141518}.gold{fill:#a88542}.w{fill:#fff}.lead{font-size:23px;font-weight:700}</style><rect width="1440" height="645" fill="#f8f7f5"/>
+<text x="65" y="73" class="top">DOIS CLIQUES. DOIS DESTINOS.</text>
+<text x="65" y="111" class="sub">Sem retirada posterior: as duas fotografias são entregues ao mesmo grupo.</text>
+<rect x="65" y="171" width="405" height="360" rx="18" fill="#fff" stroke="#dedbd4" stroke-width="2"/>
+<text x="91" y="210" class="n">01  ABORDAGEM E FOTOGRAFIA</text>
+<text x="91" y="263" class="big">2 disparos por grupo</text>
+<text x="91" y="297" class="body">Fotos distintas, não cópias.</text>
+<text x="91" y="331" class="body">Entrega imediatamente após</text>
+<text x="91" y="363" class="body">a ejeção de cada filme.</text>
+<g transform="translate(116,391)"><rect x="0" y="0" width="98" height="133" rx="5" fill="white" stroke="#c8c8c8" stroke-width="2"/><rect x="9" y="9" width="80" height="93" rx="2" fill="#d0d0d0"/><circle cx="49" cy="51" r="21" fill="#a8a8a8"/><path d="M18 92 Q47 47 79 92" fill="#838383"/><text x="49" y="120" text-anchor="middle" style="font-size:13px;font-weight:700;fill:#666">A</text></g><g transform="translate(248,391)"><rect x="0" y="0" width="98" height="133" rx="5" fill="white" stroke="#c8c8c8" stroke-width="2"/><rect x="9" y="9" width="80" height="93" rx="2" fill="#c0c0c0"/><circle cx="49" cy="51" r="21" fill="#a8a8a8"/><path d="M18 92 Q47 47 79 92" fill="#838383"/><text x="49" y="120" text-anchor="middle" style="font-size:13px;font-weight:700;fill:#666">B</text></g>
+<path d="M487 336 H543" stroke="#a88542" stroke-width="5"/><path d="M543 336 l-15 -11 v22z" fill="#a88542"/>
+<rect x="557" y="171" width="385" height="360" rx="18" fill="#151618"/>
+<text x="583" y="210" style="fill:#d9b770;font-size:19px;font-weight:700">02A  UMA FOTO FICA</text>
+<text x="583" y="260" style="fill:white;font-size:27px;font-weight:800">Lembrança do torcedor</text>
+<text x="583" y="304" style="fill:#d8d8d8;font-size:20px">QR previsto no verso,</text>
+<text x="583" y="334" style="fill:#d8d8d8;font-size:20px">sujeito a teste de aplicação.</text>
+<g transform="translate(697,353)"><rect x="0" y="0" width="98" height="133" rx="5" fill="white" stroke="#c8c8c8" stroke-width="2"/><rect x="9" y="9" width="80" height="93" rx="2" fill="#c1c1c1"/><circle cx="49" cy="51" r="21" fill="#a8a8a8"/><path d="M18 92 Q47 47 79 92" fill="#838383"/><text x="49" y="120" text-anchor="middle" style="font-size:13px;font-weight:700;fill:#666">GUARDAR</text></g>
+<path d="M957 336 H1009" stroke="#a88542" stroke-width="5"/><path d="M1009 336 l-15 -11 v22z" fill="#a88542"/>
+<rect x="1022" y="171" width="351" height="360" rx="18" fill="#f3ead8" stroke="#b79557" stroke-width="2"/>
+<text x="1048" y="210" class="n">02B  OUTRA COMPLETA</text>
+<text x="1048" y="260" style="font-size:26px;font-weight:800">Estrela coletiva</text>
+<text x="1048" y="302" class="body">O próprio participante</text>
+<text x="1048" y="335" class="body">cola o retrato, com apoio.</text>
+<path d="M1197 363 L1218 413 L1271 414 L1230 444 L1245 495 L1197 461 L1151 495 L1166 444 L1125 414 L1178 413 Z" fill="#d8b76f" stroke="#171717" stroke-width="4"/>
+<text x="65" y="556" style="font-size:23px;font-weight:800">O fotógrafo não aguarda a revelação completa para atender o próximo grupo.</text>
+<text x="65" y="594" class="sub">O ciclo real dos dois disparos e a escolha confortável entre as fotos serão aferidos no ensaio.</text>
+</svg>

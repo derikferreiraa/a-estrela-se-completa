@@ -1,0 +1,1 @@
+Estudo geométrico de 143 posições por face para fotografias instantâneas Instax Mini. Comece pelo README.md. O CSV de posições, o validador Python e as ilustrações permitem examinar as hipóteses e reproduzir a análise. O estudo não substitui protótipo físico.

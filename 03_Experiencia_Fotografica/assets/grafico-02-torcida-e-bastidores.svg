@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="645" viewBox="0 0 1440 645"><style>text{font-family:Arial,DejaVu Sans,sans-serif;fill:#141518}.top{font-size:39px;font-weight:800}.sub{font-size:21px;fill:#737373}.n{font-size:19px;font-weight:700;fill:#795b27}.big{font-size:26px;font-weight:800}.body{font-size:21px;fill:#464646}.small{font-size:18px;fill:#696969}.dark{fill:#141518}.gold{fill:#a88542}.w{fill:#fff}.lead{font-size:23px;font-weight:700}</style><rect width="1440" height="645" fill="#f8f7f5"/>
+<text x="65" y="73" class="top">UMA ESTRELA. DUAS FRENTES DE CAPTAÇÃO.</text>
+<text x="65" y="111" class="sub">O fluxo dos bastidores não consome a capacidade dos quatro fotógrafos da torcida.</text>
+<rect x="65" y="154" width="630" height="326" rx="18" fill="#ffffff" stroke="#dcdcdc" stroke-width="2"/>
+<rect x="65" y="154" width="10" height="326" rx="5" fill="#161719"/>
+<text x="101" y="205" class="n">TORCIDA · ACESSO PÚBLICO</text>
+<text x="101" y="263" style="font-size:48px;font-weight:800">100 grupos</text>
+<text x="102" y="309" class="body">Quatro fotógrafos itinerantes</text>
+<text x="102" y="341" class="body">Duas fotos na hora; uma fica,</text>
+<text x="102" y="373" class="body">outra é colada pelo torcedor</text>
+<rect x="102" y="412" width="547" height="40" rx="7" fill="#e6e6e6"/><text x="375" y="439" text-anchor="middle" style="font-size:18px;font-weight:700">200 exposições previstas</text>
+<rect x="745" y="154" width="628" height="326" rx="18" fill="#f3eada" stroke="#c4a264" stroke-width="2"/>
+<rect x="745" y="154" width="10" height="326" rx="5" fill="#a88542"/>
+<text x="782" y="205" class="n">BASTIDORES · ACESSO CONTROLADO</text>
+<text x="782" y="263" style="font-size:48px;font-weight:800">Até 25 grupos</text>
+<text x="782" y="309" class="body">Comunicação + Futebol</text>
+<text x="782" y="341" class="body">Fotos do elenco, comissão, equipe</text>
+<text x="782" y="373" class="body">e mascotes, se autorizadas</text>
+<rect x="782" y="412" width="547" height="40" rx="7" fill="#e0c894"/><text x="1055" y="439" text-anchor="middle" style="font-size:18px;font-weight:700">Até 50 exposições previstas</text>
+<path d="M375 481 V523 H719" stroke="#a88542" stroke-width="5" fill="none"/>
+<path d="M1054 481 V523 H719" stroke="#a88542" stroke-width="5" fill="none"/>
+<path d="M719 523 V541" stroke="#a88542" stroke-width="5"/><path d="M719 552 l-10 -15 h20z" fill="#a88542"/>
+<rect x="439" y="552" width="558" height="54" rx="12" fill="#141518"/>
+<text x="718" y="588" text-anchor="middle" style="fill:white;font-size:22px;font-weight:800">ESTRELA · COLAGEM COLETIVA</text>
+</svg>
