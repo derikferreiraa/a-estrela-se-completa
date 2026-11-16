@@ -52,6 +52,8 @@ O detalhamento das rubricas está no README 06. A matriz de acompanhamento do re
 
 Branding organiza o fluxo de aceite, mas não assume a decisão técnica das outras áreas: Operações pode vetar a instalação; Futebol decide sobre acesso e participação; Comunicação e o operador audiovisual decidem se a peça pode ir ao telão. No cenário de atraso do fornecedor, essa divisão aparece no GO/NO-GO do README 08.
 
+Caso Futebol não confirme a participação do elenco, a experiência da torcida segue normalmente, sem alterações no fluxo de fotografia e colagem.
+
 Referências: [CBMERJ — notas técnicas](https://www.cbmerj.rj.gov.br/notas-tecnicas/) e [Confea — ART](https://www.confea.org.br/servicos-prestados/anotacao-de-responsabilidade-tecnica-art), quando aplicáveis à instalação.
 
 [PDF deste README](README.pdf) · [Slide](assets/slide_05.png)
