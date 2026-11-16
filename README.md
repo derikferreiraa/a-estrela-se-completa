@@ -1,12 +1,9 @@
+
 # Por que escolhi esta ideia?
 
 Quis reunir torcida, famílias, diferentes gerações e quem trabalha no clube em uma mesma representação do Botafogo. A ação seria pequena diante de um público estimado de 25 mil pessoas, mas a ideia nunca foi fotografar o estádio inteiro: era dar forma visível à participação de diferentes grupos.
 
 A Estrela Solitária foi o ponto de partida. Preferi trabalhar com um símbolo que já pertence ao Botafogo: cada grupo guarda um retrato e deixa outro na estrela. O gesto individual constrói uma imagem coletiva. A assinatura sintetiza a experiência: “Uma foto fica com você. A outra faz parte da nossa história.”
-
-<p align="center">
-  <img src="assets/jornada-profissional.png" alt="Ilustração em pixel art de uma jornada profissional" width="420">
-</p>
 
 ![Relação entre símbolo, participantes, colagem e memória](assets/grafico-01-simbolo-gesto-e-memoria.png)
 
