@@ -1,0 +1,8 @@
+﻿id,especificacao,validacao_requerida,area_prevista,status,evidencia,responsavel_nomeado,data_aceite,observacoes
+V01,captacao,angulo fixo e acesso liberado,Operacoes + Comunicacao,nao verificado,,,,
+V02,edicao,ensaio cronometrado e qualidade,Comunicacao + audiovisual,nao verificado,,,,
+V03,telao,reproducao e especificacao tecnica,Operador do telao,nao verificado,,,,
+V04,reserva,arquivo aprovado e troca ensaiada,Comunicacao + audiovisual,nao verificado,,,,
+V05,qr,leitura e formulario opcional,Comunicacao + Juridico,nao verificado,,,,
+V06,imagem,procedimentos para uso de fotos e menores,Juridico + Comunicacao,nao verificado,,,,
+V07,indicadores,fontes e contagens sem duplicacao,Branding + Comunicacao,nao verificado,,,,

@@ -1,0 +1,16 @@
+﻿rubrica;quantidade_ilustrativa;valor_unitario_estimado_R$;total_estimado_R$;natureza
+Estrela de acrílico, base e acabamento nas duas faces;1;6500;6500;estimativa_nao_cotada
+Câmeras instantâneas e acessórios;4;725;2900;estimativa_nao_cotada
+Filmes instantâneos: exposições;300;8;2400;estimativa_nao_cotada
+Mochilas-pirulito e identificação;4;300;1200;estimativa_nao_cotada
+Equipe de fotografia, apoio e coordenação (global);1;6600;6600;estimativa_nao_cotada
+Totem, QR, sinalização e fixação;1;3200;3200;estimativa_nao_cotada
+Montagem, transporte, vistoria e ensaio;1;3000;3000;estimativa_nao_cotada
+Stop motion, edição e vídeo-reserva;1;3000;3000;estimativa_nao_cotada
+Seguro e provisão para ensaio de alternativas;1;2300;2300;estimativa_nao_cotada
+SUBTOTAL;;;31100;calculo
+CONTINGENCIA_15_PCT;;;4665;calculo
+TOTAL_PRIMEIRA_EDICAO;;;35765;calculo
+ATIVOS_REUTILIZAVEIS;;;10600;calculo
+CONSERVACAO_EDICAO_SEGUINTE;;;1000;calculo
+TOTAL_EDICAO_SEGUINTE;;;24725;calculo

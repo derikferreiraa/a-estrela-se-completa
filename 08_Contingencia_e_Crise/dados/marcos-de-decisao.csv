@@ -1,0 +1,6 @@
+﻿marco,entrega_prevista,evidencia_requerida,area_responsavel,situacao,data_ou_hora_real,observacoes
+D-2,Pre-aceite de B e C,Locais autorizados; testes; responsaveis,Operacoes + Branding,nao verificado,,
+12h,Diagnosticar atraso ou avaria,Alerta fornecedor e registro da nao conformidade,Branding + fornecedor,nao verificado,,
+13h30,Escolher alternativa; GO/NO-GO,Decisao formal de Operacoes,Branding + Operacoes,nao verificado,,
+15h,Sinalizar e orientar nova rota,Inspecao e briefing comprovados,Branding + Operacoes + Comunicacao,nao verificado,,
+16h (prev.),Abrir somente apos aceite,Liberacao final de Operacoes,Operacoes,nao verificado,,

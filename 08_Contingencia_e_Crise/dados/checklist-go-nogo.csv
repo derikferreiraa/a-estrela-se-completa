@@ -1,0 +1,11 @@
+﻿criterio,area,criticidade,situacao,evidencia,responsavel_pelo_aceite,observacoes
+Ponto aprovado,Operacoes,critico,nao verificado,,,
+Rota de fuga preservada,Operacoes / Seguranca,critico,nao verificado,,,
+Acessibilidade mantida,Operacoes / responsavel tecnico,critico,nao verificado,,,
+Fixacao segura e removivel,Cenografia / Operacoes,critico,nao verificado,,,
+Teste da alternativa documentado,Branding / fornecedor,critico,nao verificado,,,
+Autorizacao da parede,Gestor da area / Operacoes,critico,nao verificado,,,
+Comunicacao e sinalizacao atualizadas,Comunicacao,importante,nao verificado,,,
+Equipe informada e orientada,Branding,importante,nao verificado,,,
+Futebol ciente se interferir no elenco,Futebol,condicional,nao verificado,,,
+Horario de abertura confirmado,Operacoes,critico,nao verificado,,,
